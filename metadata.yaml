@@ -1,4 +1,5 @@
 _repo: Great-Heart-The-Life-Story-of-Theodore-Roosevelt_49317
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Dingle, Edwin John
@@ -7,12 +8,17 @@ contributor:
     gutenberg_agent_id: '5041'
     url: http://www.gutenberg.org/2009/agents/5041
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Dingle
+covers:
+- cover_type: archival
+  image_path: 49317-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderson, Daniel
     gutenberg_agent_id: '45254'
     url: http://www.gutenberg.org/2009/agents/45254
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49317#Great-Heart-The-Life-Story-of-Theodore-Roosevelt
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
